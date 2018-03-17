@@ -3,10 +3,15 @@ body {
   background-color: #A4A5AE;
 }
 
+form, input {
+margin: 3em;
+}
+
 .container {
   display: flex;
   flex-direction: column;
 }
+
 .header {
   background-color: #8D5A97;
   color: #B8EBD0;
